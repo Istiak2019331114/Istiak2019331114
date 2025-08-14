@@ -7,11 +7,11 @@
 
 > **Software Engineer passionate about solving complex problems with creative, efficient solutions—and explaining them in a simple, intuitive way. I thrive in collaborative team environments, where sharing knowledge, writing clean code, and turning challenges into opportunities drive innovation and growth.**
 
-💻 **Software Engineer** at AppsCode Inc.
-🎓 Graduated in **Computer Science & Engineering** from SUST.
-🏆 **Competitive Programmer** (Expert @ Codeforces **Max: 1818**)
-🤖 Passionate about **AI/ML**, building real-world solutions and scalable apps.
-🎮 Chess lover, event organizer & active community volunteer.
+* 💻 **Software Engineer** at AppsCode Inc.
+* 🎓 Graduated in **Computer Science & Engineering** from SUST.
+* 🏆 **Competitive Programmer** (Expert @ Codeforces **Max: 1818**)
+* 🤖 Passionate about **AI/ML**, building real-world solutions and scalable apps.
+* 🎮 Chess lover, event organizer & active community volunteer.
 
 <br>
 
