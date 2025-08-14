@@ -18,7 +18,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Istiak2019331114)
 <br>
 
----
 
 ### 🌐 Online Judge Profiles
 
@@ -26,7 +25,6 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-istiak_a2i-5b4638?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/istiak_a2i)
 [![Vjudge](https://img.shields.io/badge/Vjudge-istiak2019331114-orange?style=for-the-badge)](https://vjudge.net/user/istiak2019331114)
 
----
 
 ### 💻 Tech Stack
 
@@ -61,7 +59,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="32"/>
 </p>
 
----
 
 ### 🌐 Connect with Me
 
@@ -71,7 +68,13 @@
   <a href="mailto:istiakurrahman50@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"></a>
 </p>
 
----
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Istiak2019331114&show_icons=true&theme=radical" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Istiak2019331114&layout=compact&theme=radical" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Istiak2019331114&theme=radical" height="170">
+</p>
 
 <details>
   <summary>🎯 Fun Fact</summary>
@@ -82,13 +85,3 @@
     <li>Currently coding and living in Dhaka!</li>
   </ul>
 </details>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Istiak2019331114&show_icons=true&theme=radical" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Istiak2019331114&layout=compact&theme=radical" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Istiak2019331114&theme=radical" height="170">
-</p>
