@@ -72,7 +72,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Istiak2019331114&show_icons=true&theme=radical" height="170">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Istiak2019331114&layout=compact&theme=radical" height="170">
-  <img src="https://streak-stats.demolab.com?user=Istiak2019331114&theme=radical" height="170">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Istiak2019331114&theme=radical" height="170">
 </p>
 
 <details>
